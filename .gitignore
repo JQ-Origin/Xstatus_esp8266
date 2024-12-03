@@ -1,5 +1,6 @@
 .pio/build
-.vscode/.browse.c_cpp.db*
-.vscode/c_cpp_properties.json
-.vscode/launch.json
-.vscode/ipch
+.pio/libdeps/esp12e/Adafruit BusIO
+.pio/libdeps/esp12e/Adafruit GFX Library
+.pio/libdeps/esp12e/ArduinoJson
+.pio/libdeps/esp12e/TaskScheduler
+.vscode
